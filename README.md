@@ -2,7 +2,7 @@
 
 ### 1. Programming Proficiency
 ## Advanced Java and Kotlin:
-  - Multithreading and concurrency.
+  - [ ] Multithreading and concurrency.
   - Design patterns (Singleton, Factory, Observer, etc.).
   - JVM internals and performance tuning.
 ## Rust:
