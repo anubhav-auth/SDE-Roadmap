@@ -1,7 +1,3 @@
-Here's your detailed and visually improved Markdown, as requested: 
-
----
-
 # Topics to Cover for SDE Role
 
 ### 1. **Programming Proficiency**
@@ -161,4 +157,6 @@ Here's your detailed and visually improved Markdown, as requested:
 
 ---
 
-Let me know if you need further refinements or additions!
+To contribute pls fork and send requests
+any help is much appriciated
+
